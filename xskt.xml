@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
     <channel>
-        <title>Xskt - Appcast</title>
+        <title>XỔ số nhanh - xskt</title>
         <item>
-            <title>Version 1.15.0</title>
-            <description>Minor updates and improvements.</description>
-            <pubDate>Sun, 30 Dec 2021 12:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=codebysantn.lottery_quick_check" sparkle:version="1.15.0" sparkle:os="android" />
+            <title>Version 2.1.2</title>
+            <description>Add feature: check today result.</description>
+            <pubDate>Sun, 04 Jul 2021 12:00:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=codebysantn.lottery_quick_check" sparkle:version="2.1.2" sparkle:os="android" />
         </item>
     </channel>
 </rss>
